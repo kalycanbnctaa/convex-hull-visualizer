@@ -156,30 +156,30 @@ Keterangan: `n` adalah jumlah titik input, `h` adalah jumlah titik pada Convex H
 ## Screenshot Hasil Program
 
 ### Tampilan Utama
-![Tampilan utama aplikasi](docs/screenshots/01-main-view.png)
+![Tampilan utama aplikasi](docs/screenshots/01-main-view.jpg)
 
 ### Input Manual
-![Input titik manual](docs/screenshots/02-manual-input.png)
+![Input titik manual](docs/screenshots/02-manual-input.jpg)
 
 ### Hasil Convex Hull
 | Graham Scan | Jarvis March | QuickHull |
 |---|---|---|
-| ![Graham Scan](docs/screenshots/05-hull-graham-scan.png) | ![Jarvis March](docs/screenshots/06-hull-jarvis-march.png) | ![QuickHull](docs/screenshots/07-hull-quickhull.png) |
+| ![Graham Scan](docs/screenshots/05-hull-graham-scan.jpg) | ![Jarvis March](docs/screenshots/06-hull-jarvis-march.jpg) | ![QuickHull](docs/screenshots/07-hull-quickhull.jpg) |
 
 ### Dataset Generator
 | Random | Circle | Rectangle |
 |---|---|---|
-| ![Random](docs/screenshots/14-generator-random.png) | ![Circle](docs/screenshots/15-generator-circle.png) | ![Rectangle](docs/screenshots/16-generator-rectangle.png) |
+| ![Random](docs/screenshots/14-generator-random.jpg) | ![Circle](docs/screenshots/15-generator-circle.jpg) | ![Rectangle](docs/screenshots/16-generator-rectangle.jpg) |
 
 | Gaussian | Cluster |
 |---|---|
-| ![Gaussian](docs/screenshots/17-generator-gaussian.png) | ![Cluster](docs/screenshots/18-generator-cluster.png) |
+| ![Gaussian](docs/screenshots/17-generator-gaussian.jpg) | ![Cluster](docs/screenshots/18-generator-cluster.jpg) |
 
 ### Fitur Bonus
-![Step-by-step animasi](docs/screenshots/08-step-by-step-mid.png)
-![Benchmark tabel](docs/screenshots/11-benchmark-table.png)
-![Benchmark chart](docs/screenshots/12-benchmark-chart.png)
-![Dynamic Hull aktif](docs/screenshots/13-dynamic-hull-toggle.png)
+![Step-by-step animasi](docs/screenshots/08-step-by-step-mid.jpg)
+![Benchmark tabel](docs/screenshots/11-benchmark-table.jpg)
+![Benchmark chart](docs/screenshots/12-benchmark-chart.jpg)
+![Dynamic Hull aktif](docs/screenshots/13-dynamic-hull-toggle.jpg)
 
 
 ---
