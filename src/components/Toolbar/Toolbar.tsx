@@ -84,7 +84,7 @@ export default function Toolbar() {
         </Tooltip>
 
         <Tooltip content="Jalankan algoritma dan hitung Convex Hull">
-          <button onClick={runHull}>
+          <button onClick={() => runHull()}>
             <Play size={16} />
             Run
           </button>

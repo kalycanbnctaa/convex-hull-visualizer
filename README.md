@@ -155,10 +155,32 @@ Keterangan: `n` adalah jumlah titik input, `h` adalah jumlah titik pada Convex H
 
 ## Screenshot Hasil Program
 
-> - Tampilan utama dengan titik dan hull.
-> - Modal Generate Dataset.
-> - Panel Step-by-Step Control.
-> - Panel Benchmark (tabel & grafik).
+### Tampilan Utama
+![Tampilan utama aplikasi](docs/screenshots/01-main-view.png)
+
+### Input Manual
+![Input titik manual](docs/screenshots/02-manual-input.png)
+
+### Hasil Convex Hull
+| Graham Scan | Jarvis March | QuickHull |
+|---|---|---|
+| ![Graham Scan](docs/screenshots/05-hull-graham-scan.png) | ![Jarvis March](docs/screenshots/06-hull-jarvis-march.png) | ![QuickHull](docs/screenshots/07-hull-quickhull.png) |
+
+### Dataset Generator
+| Random | Circle | Rectangle |
+|---|---|---|
+| ![Random](docs/screenshots/14-generator-random.png) | ![Circle](docs/screenshots/15-generator-circle.png) | ![Rectangle](docs/screenshots/16-generator-rectangle.png) |
+
+| Gaussian | Cluster |
+|---|---|
+| ![Gaussian](docs/screenshots/17-generator-gaussian.png) | ![Cluster](docs/screenshots/18-generator-cluster.png) |
+
+### Fitur Bonus
+![Step-by-step animasi](docs/screenshots/08-step-by-step-mid.png)
+![Benchmark tabel](docs/screenshots/11-benchmark-table.png)
+![Benchmark chart](docs/screenshots/12-benchmark-chart.png)
+![Dynamic Hull aktif](docs/screenshots/13-dynamic-hull-toggle.png)
+
 
 ---
 
@@ -169,7 +191,7 @@ Keterangan: `n` adalah jumlah titik input, `h` adalah jumlah titik pada Convex H
 
 ### Instalasi
 ```bash
-git clone <url-repository-anda>
+git clone https://github.com/kalycanbnctaa/convex-hull-visualizer
 cd convex-hull-visualizer
 npm install
 ```
