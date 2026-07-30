@@ -238,3 +238,4 @@ File `.txt` atau `.csv` yang diimpor harus berisi satu titik per baris dengan fo
 ## Video Demonstrasi
 
 > Tautan video demonstrasi:
+https://drive.google.com/file/d/1rt66hgEvxcu6RG8WkaYGmjf0nM94l-ZW/view?usp=sharing
